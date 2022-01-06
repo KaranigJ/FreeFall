@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 1ebce1a93ec5c419a97465570fd217f1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - jetpackControlObject: {fileID: 8175002809184638416, guid: 6ee30f978f15d4a459467278ecb7de83,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
